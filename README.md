@@ -1,4 +1,4 @@
 mosome
 ======
 
-more choices with just spending some memory
+more choices by just spending some memory
